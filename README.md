@@ -1,4 +1,3 @@
-# dataset
 Dataset for OggDude's character generator 2.3.4.0.
 
 The 2.2.1.0 branch has the files in it for the previous version.
